@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+#trade-quiz-app {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 4rem;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+}
+
+.itqp-question-card,
+.itqp-result-screen {
+  background-color: #0C1C38;
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 700px;
+  width: 100%;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.itqp-question-card h2,
+.itqp-result-screen h2 {
+  color: white;
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.itqp-answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 1rem;
+}
+
+.itqp-answers button {
+  background-color: #FF1E8E;
+  border: none;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.itqp-answers button:hover {
+  background-color: #e60073;
+}
+
+.itqp-feedback {
+  font-weight: bold;
+  margin-top: 1rem;
+  color: white;
+}
+
+.itqp-next-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #0074bc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.itqp-progress-wrapper {
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.itqp-progress-bar-text {
+  font-weight: bold;
+  font-size: 1rem;
+  color: black;
+  margin-bottom: 6px;
+}
+
+.itqp-progress-bar {
+  height: 6px;
+  background-color: #ccc;
+  width: 100%;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.itqp-progress-bar-fill {
+  height: 100%;
+  background: #FF1E8E;
+  width: 0%;
+  transition: width 0.3s ease-in-out;
+}
+
+.itqp-logo-below-result {
+  max-width: 180px;
+  margin: 1.5rem auto 0;
+  display: block;
+}
