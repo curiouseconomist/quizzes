@@ -1,0 +1,242 @@
+[
+    {
+      "question": "What is one of the main benefits of free trade?",
+      "answers": [
+        "Reduced consumer choice",
+        "Lower efficiency",
+        "Access to larger markets",
+        "Increased protectionism"
+      ],
+      "correct": "Access to larger markets",
+      "explanation": "Free trade allows firms to reach new customers, increasing sales opportunities and encouraging efficiency.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Which of the following is a drawback of free trade?",
+      "answers": [
+        "Increased costs",
+        "Job losses in some industries",
+        "Lower exports",
+        "Higher inflation"
+      ],
+      "correct": "Job losses in some industries",
+      "explanation": "Free trade may lead to structural unemployment as inefficient domestic industries struggle to compete with foreign firms.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "A free trade area involves:",
+      "answers": [
+        "A common external tariff",
+        "No internal tariffs but independent external trade policy",
+        "Complete political union",
+        "Single currency"
+      ],
+      "correct": "No internal tariffs but independent external trade policy",
+      "explanation": "Members of a free trade area agree to eliminate internal trade barriers but maintain their own external tariffs.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Which feature distinguishes a customs union from a free trade area?",
+      "answers": [
+        "Tariffs between members",
+        "A shared currency",
+        "A common external tariff",
+        "Freedom of movement"
+      ],
+      "correct": "A common external tariff",
+      "explanation": "A customs union removes internal tariffs and adopts a unified external trade policy toward non-members.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What defines a monetary union?",
+      "answers": [
+        "Shared fiscal policy",
+        "Same currency and monetary policy",
+        "No trade barriers",
+        "Different interest rates"
+      ],
+      "correct": "Same currency and monetary policy",
+      "explanation": "Monetary unions like the Eurozone share a common currency and central bank, coordinating monetary policy.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Which diagram best represents a tariff?",
+      "answers": [
+        "Shift of supply right",
+        "World price plus tariff above equilibrium",
+        "Subsidy triangle below supply",
+        "AD/AS diagram"
+      ],
+      "correct": "World price plus tariff above equilibrium",
+      "explanation": "Tariffs raise the domestic price above the world price, creating a wedge that reduces imports.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What is a production subsidy?",
+      "answers": [
+        "A tax on producers",
+        "A payment to lower costs of domestic firms",
+        "A direct transfer to consumers",
+        "An export ban"
+      ],
+      "correct": "A payment to lower costs of domestic firms",
+      "explanation": "Governments use production subsidies to help domestic producers compete by reducing their costs.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "An export subsidy:",
+      "answers": [
+        "Discourages international sales",
+        "Reduces domestic production",
+        "Increases competitiveness of domestic goods abroad",
+        "Raises import tariffs"
+      ],
+      "correct": "Increases competitiveness of domestic goods abroad",
+      "explanation": "Export subsidies lower prices for foreign buyers, helping domestic firms export more.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Quotas are used to:",
+      "answers": [
+        "Encourage imports",
+        "Control quality",
+        "Limit quantity of imports",
+        "Raise government revenue"
+      ],
+      "correct": "Limit quantity of imports",
+      "explanation": "Import quotas restrict the amount of a good that can be imported, protecting domestic industries.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What is trade diversion?",
+      "answers": [
+        "Shifting from high-cost to low-cost producers",
+        "Buying from non-members instead of members",
+        "Switching to more efficient domestic firms",
+        "Buying from less efficient member countries"
+      ],
+      "correct": "Buying from less efficient member countries",
+      "explanation": "Trade diversion occurs when common tariffs lead a country to buy from a member country despite higher prices.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What is the primary aim of protectionist policies?",
+      "answers": [
+        "Promote international trade",
+        "Support foreign competition",
+        "Protect domestic industries",
+        "Reduce employment"
+      ],
+      "correct": "Protect domestic industries",
+      "explanation": "Protectionist policies aim to shield local industries from foreign competition through tariffs, quotas, and subsidies.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "A tariff usually causes:",
+      "answers": [
+        "Higher domestic prices",
+        "Increase in imports",
+        "Lower producer surplus",
+        "More variety for consumers"
+      ],
+      "correct": "Higher domestic prices",
+      "explanation": "Tariffs make imported goods more expensive, allowing domestic producers to charge higher prices.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What is a common argument against tariffs?",
+      "answers": [
+        "They boost competition",
+        "They lower prices",
+        "They distort resource allocation",
+        "They support innovation"
+      ],
+      "correct": "They distort resource allocation",
+      "explanation": "Tariffs protect inefficient producers and can misallocate resources that could be used more effectively elsewhere.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Which of the following is most likely to occur from a successful trade bloc?",
+      "answers": [
+        "Increased self-sufficiency",
+        "Greater economic integration",
+        "Isolation from global trade",
+        "Weaker trade links"
+      ],
+      "correct": "Greater economic integration",
+      "explanation": "Trade blocs reduce barriers and encourage closer economic ties between member nations.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What is comparative advantage?",
+      "answers": [
+        "Producing more with fewer resources",
+        "Producing everything better than others",
+        "Specializing where opportunity cost is lowest",
+        "Minimizing imports"
+      ],
+      "correct": "Specializing where opportunity cost is lowest",
+      "explanation": "Comparative advantage means producing goods where a country has the lowest opportunity cost.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "According to the WTO, what is one benefit of trade liberalization?",
+      "answers": [
+        "Increased trade barriers",
+        "Lower productivity",
+        "Greater consumer choice",
+        "More government control"
+      ],
+      "correct": "Greater consumer choice",
+      "explanation": "Trade liberalization expands the variety of goods available by allowing freer movement of goods and services.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Dumping refers to:",
+      "answers": [
+        "Illegal trade",
+        "Selling goods at unfairly high prices",
+        "Selling goods below cost in foreign markets",
+        "Imposing high tariffs"
+      ],
+      "correct": "Selling goods below cost in foreign markets",
+      "explanation": "Dumping occurs when firms sell goods abroad at prices lower than domestic production costs, often to gain market share.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Which diagram is used to show the impact of a subsidy on domestic production?",
+      "answers": [
+        "Demand/supply showing price rise",
+        "Price ceiling graph",
+        "Supply curve shift right",
+        "AD/AS model"
+      ],
+      "correct": "Supply curve shift right",
+      "explanation": "A subsidy reduces costs for producers, increasing supply and shifting the supply curve to the right.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "What is trade creation?",
+      "answers": [
+        "Buying from more efficient producers in a trade bloc",
+        "Decreasing trade with all nations",
+        "Using domestic firms only",
+        "Importing from outside the bloc"
+      ],
+      "correct": "Buying from more efficient producers in a trade bloc",
+      "explanation": "Trade creation occurs when lower-cost goods are bought from a bloc member, replacing more expensive domestic goods.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    },
+    {
+      "question": "Which policy is NOT typically used as trade protection?",
+      "answers": [
+        "Import quota",
+        "Export subsidy",
+        "Tariff",
+        "Deregulation"
+      ],
+      "correct": "Deregulation",
+      "explanation": "Deregulation is aimed at improving efficiency and removing restrictions, not protecting industries from imports.",
+      "image": "https://thecuriouseconomist.com/wp-content/uploads/2024/03/bg-placeholder.jpg"
+    }
+  ]
